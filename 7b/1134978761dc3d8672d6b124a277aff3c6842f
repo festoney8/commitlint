@@ -1,0 +1,16 @@
+docs/guides/local-setup.md
+  h_090999263e14f2 25-35,48,55,69,76,93,100,114,128
+docs/guides/getting-started.md
+  h_090999263e14f2 35-45,47,50-54
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.2",
+  "base_commit_sha": "7b1134978761dc3d8672d6b124a277aff3c6842f",
+  "prompts": {},
+  "humans": {
+    "h_090999263e14f2": {
+      "author": "festoney8"
+    }
+  }
+}
